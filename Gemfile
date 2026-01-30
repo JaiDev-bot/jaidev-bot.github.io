@@ -2,8 +2,8 @@
 
 source "https://rubygems.org"
 
-# Adicione esta linha abaixo, ela é a que está faltando:
-gem "jekyll", "~> 4.3" 
+# Esta é a linha vital que falta no teu ficheiro:
+gem "jekyll", "~> 4.3"
 
 gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
 
