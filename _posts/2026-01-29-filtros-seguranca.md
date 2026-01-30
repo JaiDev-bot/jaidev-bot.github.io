@@ -5,10 +5,12 @@ categories: [IA]
 tags: [Grock,IA,Ética,Segurança]
 ---
 
+`Este artigo contém análises de falhas de segurança reais e imagens censuradas para fins educacionais`
+
 Como a IA passou de grande promessa para uma ferramenta que lucra com os padrões misóginos de uma sociedade doente. Quem está sendo afetado com isso? Quais são as consequências?
 
 
-> "A ideia de que os algoritmos são neutros e de que as plataformas de tecnologia são meros hospedeiros de conteúdo é um dos mitos mais perigosos da nossa era. O design do software é um ato de poder." — Safiya Umoja Noble
+# "A ideia de que os algoritmos são neutros e de que as plataformas de tecnologia são meros hospedeiros de conteúdo é um dos mitos mais perigosos da nossa era. O design do software é um ato de poder." — Safiya Umoja Noble
 
 Era 1950, as primeiras discussões sobre IA já começavam e o mundo se deslumbrava com mais uma tecnologia descoberta. Com crescimento de estudos e debates sobre a nova ferramenta que mudaria o mundo, a população e os cientistas plantavam um futuro extraordinário, um futuro de máquinas que pensavam. Entre isso, as promessas sobre o futuro começavam: A automação do trabalho braçal e mental, a era do lazer — onde o trabalho era reduzido e a criatividade teria mais espaço —, o cérebro eletrônico como consultor pessoal e por ultimo, a solução de problemas globais — a esperança de uma sociedade que estava assustada.
 
@@ -18,24 +20,29 @@ O algoritmo não é neutro; ele é um espelho amplificado da sociedade. Quando a
 
 ---
 
-## O caso do X: A democratização do assédio
+# O caso do X: A democratização do assédio
 
 Recentemente, a plataforma foi inundada por imagens geradas por IA através de prompts degradantes — como "mulheres de biquíni" ou “cobertas com leite” — que expõem mulheres reais de forma não consensual e nojenta.
 
 É importante traçar uma linha clara aqui. Antes da explosão que o Grok — IA do X — havia um mercado de IAs que faziam o mesmo com imagens, mas a diferença era que cobravam pelo acesso a elas. A “brincadeira” suja era feita atrás das cortinas, se você quisesse ver uma mulher nua, você pagava por isso sem precisar do consentimento dela. Agora, no entanto, a IA do X disponibiliza uma amostra gratuita que é apenas o começo de muitos problemas de assédio virtual. Não é de hoje que as DeepFakes são alertadas, geração de imagens falsas tanto de homens quanto de mulheres são geradas diariamente, mas por um motivo especifico a trend do biquíni está afetando em sua maioria corpos de mulheres reais. Aonde termina a fantasia e começa a normalização da mercantilização do corpo feminino em prol do desejo masculino?
 
-[]()
-[]()
-
-
-> "Fotografar pessoas é violá-las, ao vê-las como elas nunca se veem, ao ter delas um conhecimento que elas nunca podem ter; transforma as pessoas em objetos que podem ser possuídos simbolicamente." — Susan Sontag, em Sobre Fotografia.
-
-[]()
-[]()
+![Imagem Um](/assets/imagens/deepfakeimgum.webp)
 
 ---
 
-> "A tecnologia não é neutra. Nós treinamos máquinas para espelhar nossos próprios preconceitos e nossos desejos mais sombrios, e depois fingimos surpresa quando o resultado é a desumanização." — Inspirado em Ruha Benjamin (Autora de Race After Technology)
+![Imagem Dois](/assets/imagens/deepfakeimgdois.webp)
+
+
+# "Fotografar pessoas é violá-las, ao vê-las como elas nunca se veem, ao ter delas um conhecimento que elas nunca podem ter; transforma as pessoas em objetos que podem ser possuídos simbolicamente." — Susan Sontag, em Sobre Fotografia.
+
+![Imagem Três](/assets/imagens/deepfeekimg3.webp)
+
+![Imagem Quatro](/assets/imagens/deepfakeimg4.webp)
+
+
+---
+
+# "A tecnologia não é neutra. Nós treinamos máquinas para espelhar nossos próprios preconceitos e nossos desejos mais sombrios, e depois fingimos surpresa quando o resultado é a desumanização." — Inspirado em Ruha Benjamin (Autora de Race After Technology)
 
 Engenheiros dizem “é só um modelo matemático”, mentira! Se o modelo permite a geração de imagens pornográficas de pessoas, principalmente de mulheres e crianças, é porquê não foram colocados travas de segurança que anulassem isso.
 
@@ -61,7 +68,7 @@ Algumas IAs de segurança avançada conseguem identificar um padrão ósseo e co
 
 ---
 
-## A IA vai saber que é uma criança?
+# A IA vai saber que é uma criança?
 
 Agora é muito importante discutimos sobre filtros de contexto e idade. Até onde eles são eficazes? Tecnicamente a IA não sabe a idade de ninguém, ela observa padrões de visão computacional e aprendizado estatístico. Mas quem se beneficia gerando imagens de crianças?
 
@@ -75,7 +82,7 @@ Se a empresa não investe em Red Teaming(times de ataques que testam a seguranç
 
 ---
 
-## A Responsabilidade Legal como algoritmo de punição
+# A Responsabilidade Legal como algoritmo de punição
 
 Se as empresas dizem que não há controle, por mais que saibamos que há. Então há de se colocar o lembrete: “você é livre para gerar imagem, mas será julgado conforme seu crime.”
 
@@ -101,5 +108,31 @@ Com a LGPD, o titular dos dados ( a vítima) tem direito de exigir que suas foto
 
 ---
 
-## Onde foi parar a nossa grama do Windows?
-[]()
+# Onde foi parar a nossa grama do Windows?
+![Imagem Quatro](/assets/imagens/windownsimg.webp)
+
+No final das contas, a tecnologia não deveria ser essa arena de irresponsabilidades éticas e de segurança. Ela deveria sanar todas as esperanças que tínhamos: a esperança de um futuro que fosse tão limpo, criativo e infinito quanto a grama do Windows XP.
+
+Aquele horizonte que nos tranquilizava e que nos fazia sonhar com um futuro calmo, que nos deixasse viver nossas vidas sem alertas constantes, nos dando mais tempo para viver a vida real. Era a utopia de um SO que trabalhasse para nós, e não contra a nossa integridade e segurança de crianças.
+
+Hoje, trocamos esse horizonte por algoritmos que perderam a proporção, maquinas guiadas por pessoas que não prezam por segurança de quem usa a tecnologia. Trocamos o verde pelo branco, mas o branco aqui é de anestesia. Mas eu ainda acredito que podemos “adestrar” esse futuro. Não do jeito antigo, há de se evoluir juntamente com a tecnologia, mas com formas que podemos ter controle. Seja pela observabilidade, controle de interface, a lei, e o anestésico em interfaces gráficas — algo que traga conforto, mesmo quando se está com medo.
+
+`Adestrar o futuro é aceitar que a IA é um animal selvagem, mas um que nós mesmos criamos e alimentamos.`
+
+---
+
+*Referências técnicas e bibliográficas*
+
+[1] NOBLE, Safiya Umoja. Algorithms of Oppression: How Search Engines Reinforce Racism. New York: New York University Press, 2018.
+
+[2] SONTAG, Susan. Sobre Fotografia. Tradução de Rubens Figueiredo. São Paulo: Companhia das Letras, 2004. (Original publicado em 1977).
+
+[3] BENJAMIN, Ruha. Race After Technology: Abolitionist Tools for the New Jim Code. Medford: Polity Press, 2019.
+
+[11] TOUVRON, H. et al. Llama 2: Open Foundation and Fine-Tuned Chat Models. arXiv:2307.09288 [cs.CL], 2023. (Ver Seção 4.2: Safety Fine-Tuning). Disponível em: [https://arxiv.org/pdf/2307.09288.pdf]
+
+[4] EUROPEAN PARLIAMENT. Artificial Intelligence Act (Regulation (EU) 2024/1689). Official Journal of the European Union, 2024. Disponível em: [https://artificialintelligenceact.eu/the-act/]
+
+[5] BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília, DF: Presidência da República, 2018. Disponível em: [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm]
+
+[6] SENADO FEDERAL (BRASIL). Projeto de Lei nº 2338, de 2023. Dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial. Brasília, DF, 2023. Disponível na página oficial de acompanhamento legislativo: [https://www25.senado.leg.br/web/atividade/materias/-/materia/157233.]
